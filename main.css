@@ -34,6 +34,10 @@ container {
 }
 
 body {
-    background-image: url(sakura.png);
+    background-image: url("imgs/sakura.png";
 }
-
+img{
+	float: left;
+	
+	
+}
